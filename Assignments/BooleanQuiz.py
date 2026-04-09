@@ -8,3 +8,4 @@ print(answer2<91)
 print(answer3==15)
 print(answer4>=73)
 print(answer5<=932)
+ 
